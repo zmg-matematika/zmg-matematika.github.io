@@ -1,20 +1,20 @@
 <p><img src="./dokumentumok/kezdokep.jpg" align="middle"> </p>
 
-## Zrínyi Miklós Gimnázium Matematika Honlapja
+# Zrínyi Miklós Gimnázium  - Matematika
 
-### Versenynaptár
+## Versenyeredmények
+
+## Versenynaptár
 
 - Aktuális versenyek:
   - 
 
 - [Éves versenynaptár](./_includes/versenyek.md)
 
-### Versenyeredmények
-
-- TODO TODO
-
-### Versenyek Honlapjai
+## Versenyek Honlapjai
 
 - TODO
 
 - [Ajánlott oldalak](./_includes/ajanlott.md)
+
+## Érettségi
