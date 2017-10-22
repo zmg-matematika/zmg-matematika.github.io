@@ -1,1 +1,1 @@
-![kezdokep](./dokumentumok/kezdokep.jpg)
+<img align="center" src="./dokumentumok/kezdokep">
