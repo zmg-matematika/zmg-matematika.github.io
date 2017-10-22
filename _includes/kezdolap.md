@@ -1,9 +1,9 @@
 <p><img src="./dokumentumok/kezdokep.jpg" align="middle"> </p>
 
-# Zrínyi Miklós Gimnázium Matematika Honlapja
+## Zrínyi Miklós Gimnázium Matematika Honlapja
 
-## Versenynaptár
+### Versenynaptár
 
-## Versenyeredmények
+### Versenyeredmények
 
-## Versenyek Honlapjai
+### Versenyek Honlapjai
