@@ -1,1 +1,1 @@
-![dokumentumok/kezdokep.jpg](pitagorasz)
+![kezdokep](dokumentumok/kezdokep.jpg)
