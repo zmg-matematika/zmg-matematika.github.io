@@ -19,7 +19,7 @@
 - Nemzetközi Kenguru matematikaverseny
      [Aktuális versenykiírás](https://zalamat.hu/)
 
-### Versenynaptár
+### [Versenynaptár](versenyek.md)
 
 ### Matematika Érettségi
 
