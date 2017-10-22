@@ -11,7 +11,7 @@
 
 ### Versenyeredmények
 
-- TODO
+- TODO TODO
 
 ### Versenyek Honlapjai
 
