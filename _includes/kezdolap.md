@@ -4,8 +4,6 @@
 
 ### Versenynaptár
 
-hbfljsbflkjabsdlkfjbaslkjblksjabdglkjasblg
-
 - Aktuális versenyek:
   - 
 
