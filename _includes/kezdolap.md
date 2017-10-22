@@ -2,10 +2,6 @@
 
 ## Zrínyi Miklós Gimnázium  - Matematika
 
-{:toc}
-
-### Versenyeredmények
-
 ### Versenyek
 
 - OKTV
