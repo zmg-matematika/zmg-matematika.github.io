@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Home
 ---
-{% include kezdolap.md %}
+{% include about.md %}
+

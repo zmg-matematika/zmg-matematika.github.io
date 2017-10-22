@@ -1,4 +1,4 @@
-### Versenyek
+# Versenyek
 
 - OKTV
   - [Aktuális versenykiírás](https://www.oktatas.hu/pub_bin/dload/kozoktatas/tanulmanyi_versenyek/oktv/oktv2017_2018_vk/119_matematika_1718.pdf)
@@ -9,6 +9,6 @@
 - Varga Tamás matematikaverseny
   - [Aktuális versenykiírás](http://www.mategye.hu/download/varga/kiiras_2018.pdf)
 - Zrínyi Ilona matematikaverseny
-     [Aktuális versenykiírás](http://www.mategye.hu/download/zrinyi/kiiras_2018.pdf)
+     - [Aktuális versenykiírás](http://www.mategye.hu/download/zrinyi/kiiras_2018.pdf)
 - Nemzetközi Kenguru matematikaverseny
-     [Aktuális versenykiírás](https://zalamat.hu/)
+     - [Aktuális versenykiírás](https://zalamat.hu/)

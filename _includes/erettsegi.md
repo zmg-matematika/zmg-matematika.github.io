@@ -1,4 +1,4 @@
-### Matematika Érettségi
+# Matematika Érettségi
 
 - [Vizsgaleírás](https://www.oktatas.hu/pub_bin/dload/kozoktatas/erettsegi/vizsgakovetelmenyek2017/matematika_vl_2017.pdf)
 - [Részletes vizsgakövetelmény](https://www.oktatas.hu/pub_bin/dload/kozoktatas/erettsegi/vizsgakovetelmenyek2017/matematika_vk_2017.pdf)
