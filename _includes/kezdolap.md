@@ -7,7 +7,7 @@
 - Aktuális versenyek:
   - 
 
-- [Éves versenynaptár](versenyek.md)
+- [Éves versenynaptár](./dokumentumok/versenyek.md)
 
 ### Versenyeredmények
 
