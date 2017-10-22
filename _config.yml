@@ -1,0 +1,28 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               "ZMG Matematika"
+tagline:             ""
+url:                 zmg-matematika.github.io
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Katalin Tusnady
+  url:               zmg-matematika.github.io
+  email:             palovicsk@gmail.com
+
+github:
+  repo:              zmg-matematika/zmg-matematika.github.io
+
+# Gems
+gems:
+  - jekyll-gist
