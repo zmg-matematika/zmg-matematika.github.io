@@ -13,8 +13,6 @@
 
 ## Versenyek Honlapjai
 
-- TODO
-
-- [Ajánlott oldalak](./_includes/ajanlott.md)
-
 ## Érettségi
+
+## [Ajánlott oldalak](./_includes/ajanlott.md)
