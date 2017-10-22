@@ -7,7 +7,7 @@
 - Aktuális versenyek:
   - 
 
-- [Éves versenynaptár](./versenyek.md)
+- [Éves versenynaptár](versenyek.md)
 
 ### Versenyeredmények
 
@@ -17,4 +17,4 @@
 
 - TODO
 
-- [Ajánlott oldalak](./ajanlott.md)
+- [Ajánlott oldalak](ajanlott.md)
