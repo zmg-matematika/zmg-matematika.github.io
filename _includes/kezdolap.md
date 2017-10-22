@@ -1,1 +1,1 @@
-<img align="center" src="./dokumentumok/kezdokep">
+<img align="center" src="./dokumentumok/kezdokep.jpg">
