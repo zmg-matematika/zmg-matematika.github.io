@@ -1,1 +1,1 @@
-![kezdokep](dokumentumok/kezdokep.jpg)
+![kezdokep](./dokumentumok/kezdokep.jpg)
