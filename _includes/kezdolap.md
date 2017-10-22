@@ -14,6 +14,10 @@
   - [Korábbi feladtasorok](http://www.bolyai.hu/aranydaniel.htm)
 - Varga Tamás matematikaverseny
   - [Aktuális versenykiírás](http://www.mategye.hu/download/varga/kiiras_2018.pdf)
+- Zrínyi Ilona matematikaverseny
+     [Aktuális versenykiírás](http://www.mategye.hu/download/zrinyi/kiiras_2018.pdf)
+- Nemzetközi Kenguru matematikaverseny
+     [Aktuális versenykiírás](https://zalamat.hu/)
 
 ### Versenynaptár
 
@@ -24,4 +28,8 @@
 - [Korábbi feladatsorok]( https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok_vizsgatargyankent/!DARI_ErettsegiFeladatsorok/oh.php?id=erett_ut_reszlet)
 - [Matematika érettségi feladatok témakörönként]( http://www.studiumgenerale.hu/hu-Hu/erettsegik-temakor-szerint)
 
-### [Ajánlott oldalak](./_includes/ajanlott.md)
+### [Ajánlott oldalak]
+  - [KöMaL](https://www.komal.hu/info/bemutatkozas.h.shtml) 
+  - [Geogebra](https://www.geogebra.org/?lang=hu)
+  - [Érintő](http://www.ematlap.hu/)
+  - [Mategye]( http://www.mategye.hu/)
