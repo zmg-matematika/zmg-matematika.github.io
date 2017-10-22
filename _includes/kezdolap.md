@@ -4,6 +4,15 @@
 
 ### Versenynaptár
 
+- Aktuális versenyek:
+  - 
+
+- [Éves versenynaptár](versenyek.md)
+
 ### Versenyeredmények
 
+- TODO
+
 ### Versenyek Honlapjai
+
+- TODO
