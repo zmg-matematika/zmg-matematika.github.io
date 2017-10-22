@@ -16,3 +16,5 @@
 ### Versenyek Honlapjai
 
 - TODO
+
+-[Ajánlott oldalak](./dokumentumok/ajanlott.md)
