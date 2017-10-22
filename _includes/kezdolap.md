@@ -28,7 +28,7 @@
 - [Korábbi feladatsorok]( https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok_vizsgatargyankent/!DARI_ErettsegiFeladatsorok/oh.php?id=erett_ut_reszlet)
 - [Matematika érettségi feladatok témakörönként]( http://www.studiumgenerale.hu/hu-Hu/erettsegik-temakor-szerint)
 
-### [Ajánlott oldalak]
+### Ajánlott oldalak
   - [KöMaL](https://www.komal.hu/info/bemutatkozas.h.shtml) 
   - [Geogebra](https://www.geogebra.org/?lang=hu)
   - [Érintő](http://www.ematlap.hu/)
